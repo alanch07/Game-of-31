@@ -6,7 +6,7 @@ int main(void) {
 	char zoinks[50];
 
 	scanf("%s", zoinks);
-	printf("Hello %s!", zoinks);
+	printf("Goodbye % s!", zoinks);
 
 	return 0;
 }
